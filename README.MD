@@ -72,7 +72,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/gomaof/">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/joaogomess/">LinkedIn</a>
+    <a href="https://linkedin.com/in/joaogomess/">LinkedIn</a>
 &nbsp;
 </p>
 <br/><br/>
